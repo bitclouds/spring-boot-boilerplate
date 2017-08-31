@@ -6,7 +6,7 @@ Spring Boot Boilerplate useful for development speed increasing
 
 Since Spring Boot requires a dependency manager, I used maven instead of gradle.
 For additional information, take a look at the link below
-* [Maven] (https://maven.apache.org/guides/getting-started/index.html)
+* [Maven] (https://maven.apache.org/) - Dependency Management
 
 In this project, the following command is enough for setup maven:
 
